@@ -1,5 +1,21 @@
 # 🚀 Three.js Portfolio - Kooldeep Rajput
 
+## ✨ NEW: Cinematic Scroll Animations
+
+### Enhanced Features:
+- 🎬 **Scroll-Based Camera Animation**: Smooth camera transitions between sections
+- 🎨 **3D Model Showcase**: Premium abstract shape with metallic materials
+- 💡 **Professional Lighting**: Enhanced lighting setup with tone mapping
+- 🖱️ **Mouse Parallax**: Subtle camera movement following mouse
+- ⚡ **Performance Optimized**: Smooth 60 FPS animations
+
+### Quick Links:
+- 📖 [Cinematic Animation Guide](./CINEMATIC_GUIDE.md)
+- 🎨 [Free 3D Models](./FREE_MODELS.md)
+- 🎥 [Camera Presets](./CAMERA_PRESETS.md)
+
+---
+
 ## Three.js Usage
 
 ### Main Scene (Home Section)
